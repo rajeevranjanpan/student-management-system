@@ -127,7 +127,7 @@ App runs at: `http://localhost:3000`
 
 ## 🤝 Author
 
-Made with ❤️ by **[Your Name]**
+Made with ❤️ by Rajeev Ranjan Pan
 
 ---
 
