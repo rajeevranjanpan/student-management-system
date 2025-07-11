@@ -120,7 +120,8 @@ App runs at: `http://localhost:3000`
 
 ## 📷 Screenshots
 
-> _You can paste screenshots here after taking them from the UI._
+<img width="1919" height="562" alt="image" src="https://github.com/user-attachments/assets/e2325847-695d-4364-870c-512b6a8197df" />
+
 
 ---
 
