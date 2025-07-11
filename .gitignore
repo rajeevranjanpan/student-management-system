@@ -1,0 +1,12 @@
+# node modules
+node_modules/
+
+# dotenv
+#*.env
+
+# build output
+build/
+dist/
+
+# log files
+*.log
