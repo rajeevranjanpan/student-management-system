@@ -41,7 +41,7 @@ project-root/
 ### 🧱 1. Clone the Project
 
 ```bash
-git clone https://github.com/your-username/student-management-system.git
+git clone https://github.com/rajeevranjanpan/student-management-system.git
 cd student-management-system
 ```
 
